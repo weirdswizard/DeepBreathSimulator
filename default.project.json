@@ -1,0 +1,31 @@
+{
+  "name": "DeepBreathSimulator",
+  "tree": {
+    "$className": "DataModel",
+
+    "ServerScriptService": {
+      "$className": "ServerScriptService",
+      "$path": "src/server"
+    },
+
+    "StarterGui": {
+      "$className": "StarterGui",
+
+      "BreathUI": {
+        "$path": "src/client/ui/BreathUI.rbxmx"
+      },
+
+      "PetPopup": {
+        "$path": "src/client/ui/PetPopup.rbxmx"
+      },
+
+      "RebirthUI": {
+        "$path": "src/client/ui/RebirthUI.rbxmx"
+      },
+
+      "ScreenGui": {
+        "$path": "src/client/ui/ScreenGui.rbxmx"
+      }
+    }
+  }
+}
