@@ -1,8 +1,13 @@
-# Project place file
-/DeepBreathSimulator.rbxlx
+# Roblox / Rojo
+*.rbxl
+*.rbxlx
 
-# Roblox Studio lock files
-/*.rbxlx.lock
-/*.rbxl.lock
+# OS junk
+.DS_Store
+Thumbs.db
 
-sourcemap.json
+# Node (if used)
+node_modules/
+
+# Logs
+*.log
