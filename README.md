@@ -24,5 +24,5 @@ Core systems completed. Currently improving UI, progression, and polish.
 ##  Future Plans
 
 * Gamepasses & monetization
-* Better UI animations
+* Better UI
 * More zones and pets
